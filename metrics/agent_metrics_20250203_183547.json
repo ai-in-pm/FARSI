@@ -1,0 +1,57 @@
+{
+  "zeta": {
+    "agent_id": "zeta",
+    "messages_sent": 2,
+    "total_chars": 733,
+    "avg_message_length": 366.5,
+    "response_times": [
+      11.135400533676147,
+      10.523197889328003
+    ]
+  },
+  "alpha": {
+    "agent_id": "alpha",
+    "messages_sent": 1,
+    "total_chars": 398,
+    "avg_message_length": 398.0,
+    "response_times": [
+      11.537251472473145
+    ]
+  },
+  "beta": {
+    "agent_id": "beta",
+    "messages_sent": 1,
+    "total_chars": 359,
+    "avg_message_length": 359.0,
+    "response_times": [
+      11.039884328842163
+    ]
+  },
+  "gamma": {
+    "agent_id": "gamma",
+    "messages_sent": 1,
+    "total_chars": 319,
+    "avg_message_length": 319.0,
+    "response_times": [
+      9.602512121200562
+    ]
+  },
+  "delta": {
+    "agent_id": "delta",
+    "messages_sent": 1,
+    "total_chars": 320,
+    "avg_message_length": 320.0,
+    "response_times": [
+      9.29123592376709
+    ]
+  },
+  "epsilon": {
+    "agent_id": "epsilon",
+    "messages_sent": 1,
+    "total_chars": 300,
+    "avg_message_length": 300.0,
+    "response_times": [
+      8.638401508331299
+    ]
+  }
+}

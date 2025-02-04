@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-02-03T18:34:39.671902",
+    "agent_id": "zeta",
+    "message_length": 371,
+    "response_time": 11.135400533676147
+  },
+  {
+    "timestamp": "2025-02-03T18:34:52.212617",
+    "agent_id": "alpha",
+    "message_length": 398,
+    "response_time": 11.537251472473145
+  },
+  {
+    "timestamp": "2025-02-03T18:35:04.268119",
+    "agent_id": "beta",
+    "message_length": 359,
+    "response_time": 11.039884328842163
+  },
+  {
+    "timestamp": "2025-02-03T18:35:14.872713",
+    "agent_id": "gamma",
+    "message_length": 319,
+    "response_time": 9.602512121200562
+  },
+  {
+    "timestamp": "2025-02-03T18:35:25.166639",
+    "agent_id": "delta",
+    "message_length": 320,
+    "response_time": 9.29123592376709
+  },
+  {
+    "timestamp": "2025-02-03T18:35:34.806194",
+    "agent_id": "epsilon",
+    "message_length": 300,
+    "response_time": 8.638401508331299
+  },
+  {
+    "timestamp": "2025-02-03T18:35:46.329454",
+    "agent_id": "zeta",
+    "message_length": 362,
+    "response_time": 10.523197889328003
+  }
+]

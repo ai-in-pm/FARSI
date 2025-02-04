@@ -1,0 +1,16 @@
+2025-02-03 18:34:51,518 - FARSI - INFO - Initializing FARSI simulation
+2025-02-03 18:34:51,518 - FARSI - INFO - Initialized Agent Zeta with role: Moderator & Coordinator
+2025-02-03 18:34:51,518 - FARSI - INFO - Initialized Agent Alpha with role: Algorithm Design Expert
+2025-02-03 18:34:51,518 - FARSI - INFO - Initialized Agent Beta with role: Recursive Systems Specialist
+2025-02-03 18:34:51,521 - FARSI - INFO - Initialized Agent Gamma with role: Safety Expert
+2025-02-03 18:34:51,521 - FARSI - INFO - Initialized Agent Delta with role: Architecture Researcher
+2025-02-03 18:34:51,522 - FARSI - INFO - Initialized Agent Epsilon with role: Hardware Strategist
+2025-02-03 18:34:51,522 - FARSI - INFO - Successfully initialized all agents
+2025-02-03 18:34:51,526 - FARSI - INFO - Starting FARSI demonstration
+2025-02-03 18:34:51,526 - FARSI - DEBUG - Agent Zeta is preparing to speak: Welcome to our live demonstration on Fully Autonom...
+2025-02-03 18:35:03,019 - FARSI - DEBUG - Agent Zeta finished speaking. Response time: 11.49s
+2025-02-03 18:35:04,033 - FARSI - DEBUG - Agent Alpha is preparing to speak: Thank you, Zeta. From an algorithmic perspective, ...
+2025-02-03 18:35:16,174 - FARSI - DEBUG - Agent Alpha finished speaking. Response time: 12.14s
+2025-02-03 18:35:17,177 - FARSI - DEBUG - Agent Beta is preparing to speak: Building on Alpha's point, the recursive nature of...
+2025-02-03 18:35:27,864 - FARSI - DEBUG - Agent Beta finished speaking. Response time: 10.69s
+2025-02-03 18:35:28,876 - FARSI - DEBUG - Agent Gamma is preparing to speak: While the potential is exciting, we must address t...

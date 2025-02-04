@@ -1,0 +1,26 @@
+2025-02-03 18:34:28,534 - FARSI - INFO - Initializing FARSI simulation
+2025-02-03 18:34:28,535 - FARSI - INFO - Initialized Agent Zeta with role: Moderator & Coordinator
+2025-02-03 18:34:28,535 - FARSI - INFO - Initialized Agent Alpha with role: Algorithm Design Expert
+2025-02-03 18:34:28,535 - FARSI - INFO - Initialized Agent Beta with role: Recursive Systems Specialist
+2025-02-03 18:34:28,535 - FARSI - INFO - Initialized Agent Gamma with role: Safety Expert
+2025-02-03 18:34:28,535 - FARSI - INFO - Initialized Agent Delta with role: Architecture Researcher
+2025-02-03 18:34:28,535 - FARSI - INFO - Initialized Agent Epsilon with role: Hardware Strategist
+2025-02-03 18:34:28,535 - FARSI - INFO - Successfully initialized all agents
+2025-02-03 18:34:28,536 - FARSI - INFO - Starting FARSI demonstration
+2025-02-03 18:34:28,536 - FARSI - DEBUG - Agent Zeta is preparing to speak: Welcome to our live demonstration on Fully Autonom...
+2025-02-03 18:34:39,671 - FARSI - DEBUG - Agent Zeta finished speaking. Response time: 11.14s
+2025-02-03 18:34:40,674 - FARSI - DEBUG - Agent Alpha is preparing to speak: Thank you, Zeta. From an algorithmic perspective, ...
+2025-02-03 18:34:52,212 - FARSI - DEBUG - Agent Alpha finished speaking. Response time: 11.54s
+2025-02-03 18:34:53,228 - FARSI - DEBUG - Agent Beta is preparing to speak: Building on Alpha's point, the recursive nature of...
+2025-02-03 18:35:04,267 - FARSI - DEBUG - Agent Beta finished speaking. Response time: 11.04s
+2025-02-03 18:35:05,270 - FARSI - DEBUG - Agent Gamma is preparing to speak: While the potential is exciting, we must address t...
+2025-02-03 18:35:14,872 - FARSI - DEBUG - Agent Gamma finished speaking. Response time: 9.60s
+2025-02-03 18:35:15,873 - FARSI - DEBUG - Agent Delta is preparing to speak: The foundation of any FARSI system lies in its see...
+2025-02-03 18:35:25,165 - FARSI - DEBUG - Agent Delta finished speaking. Response time: 9.29s
+2025-02-03 18:35:26,167 - FARSI - DEBUG - Agent Epsilon is preparing to speak: The hardware aspect of FARSI is equally crucial. A...
+2025-02-03 18:35:34,806 - FARSI - DEBUG - Agent Epsilon finished speaking. Response time: 8.64s
+2025-02-03 18:35:35,806 - FARSI - DEBUG - Agent Zeta is preparing to speak: Thank you all for these valuable insights. As we'v...
+2025-02-03 18:35:46,329 - FARSI - DEBUG - Agent Zeta finished speaking. Response time: 10.52s
+2025-02-03 18:35:47,332 - FARSI - INFO - Simulation completed successfully
+2025-02-03 18:35:47,332 - FARSI - INFO - Total duration: 78.80s
+2025-02-03 18:35:47,332 - FARSI - INFO - Total messages: 7

@@ -1,0 +1,13 @@
+README.md
+setup.py
+agents/__init__.py
+agents/base_agent.py
+agents/specialized_agents.py
+farsi.egg-info/PKG-INFO
+farsi.egg-info/SOURCES.txt
+farsi.egg-info/dependency_links.txt
+farsi.egg-info/requires.txt
+farsi.egg-info/top_level.txt
+tests/__init__.py
+tests/test_agents.py
+tests/test_simulation.py
